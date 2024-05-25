@@ -1,4 +1,4 @@
-## To implement Simple Generate and Test
+## Simple Generate and Test
 ```python
 import pygame
 import sys
